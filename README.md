@@ -1,12 +1,11 @@
 
 
 <table>
- 
   <tr>
 <td> <img width="200" alt="Screenshot 2021-08-01 at 21 35 45" src="https://user-images.githubusercontent.com/26028054/127784921-f8603da2-a1b6-48d7-a028-0e848db67982.png">
-
     </td>
-   <td> <img width="200" alt="Screenshot 2021-08-01 at 21 35 56" src="https://user-images.githubusercontent.com/26028054/127784905-e27ac86b-bfec-49ca-8e61-869b0d509625.png"> </td>
+   <td> <img width="200" alt="Screenshot 2021-08-01 at 21 35 56" src="https://user-images.githubusercontent.com/26028054/127784905-e27ac86b-bfec-49ca-8e61-869b0d509625.png">
+   </td>
     </tr>
  </table>
 # CakeStore
