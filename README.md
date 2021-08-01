@@ -32,4 +32,4 @@ Databinding has been used for bind UI components of row_characters.xml and fragm
 
 This app uses MVVM (Model View View-Model) architecture.
 
-68747470733a2f2f646576656c6f7065722e616e64726f69642e636f6d2f746f7069632f6c69627261726965732f6172636869746563747572652f696d616765732f66696e616c2d6172636869746563747572652e706e67
+https://user-images.githubusercontent.com/58938625/91903352-ff443400-ec9a-11ea-8fd0-853d6336bcf4.png
