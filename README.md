@@ -1,4 +1,9 @@
 
+
+
+<img width="397" alt="Screenshot 2021-08-01 at 21 35 45" src="https://user-images.githubusercontent.com/26028054/127784921-f8603da2-a1b6-48d7-a028-0e848db67982.png">
+
+<img width="388" alt="Screenshot 2021-08-01 at 21 35 56" src="https://user-images.githubusercontent.com/26028054/127784905-e27ac86b-bfec-49ca-8e61-869b0d509625.png">
 # CakeStore
 # Project Structure
 
@@ -32,4 +37,5 @@ Databinding has been used for bind UI components of row_characters.xml and fragm
 
 This app uses MVVM (Model View View-Model) architecture.
 
-https://user-images.githubusercontent.com/58938625/91903352-ff443400-ec9a-11ea-8fd0-853d6336bcf4.png
+<img width="730" alt="Screenshot 2021-08-01 at 21 49 23" src="https://user-images.githubusercontent.com/26028054/127784943-07325af2-e5ff-4637-b093-7bf4781f7a30.png">
+
