@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-<td> <img width="413" alt="Screenshot 2021-08-01 at 21 35 45" src="https://user-images.githubusercontent.com/26028054/127784921-f8603da2-a1b6-48d7-a028-0e848db67982.png">
+<td> <img width="313" alt="Screenshot 2021-08-01 at 21 35 45" src="https://user-images.githubusercontent.com/26028054/127784921-f8603da2-a1b6-48d7-a028-0e848db67982.png">
     </td>
-   <td> <img width="413" alt="Screenshot 2021-08-01 at 21 35 56" src="https://user-images.githubusercontent.com/26028054/127784905-e27ac86b-bfec-49ca-8e61-869b0d509625.png">
+   <td> <img width="313" alt="Screenshot 2021-08-01 at 21 35 56" src="https://user-images.githubusercontent.com/26028054/127784905-e27ac86b-bfec-49ca-8e61-869b0d509625.png">
    </td>
     <td> <img width="358" alt="Screenshot 2021-08-01 at 22 11 51" src="https://user-images.githubusercontent.com/26028054/127785469-ce306d3b-aa41-45a6-967f-8b67601f3086.png">
     </td>
